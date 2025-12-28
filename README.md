@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring AI Engineer specializing in Agentic AI, Automation, and Generative AI. I am currently building intelligent systems that solve real-world problems using RAG and n8n.<br><br>Projects/Learning:<br>Building a Pakistani Law RAG System using n8n & Vector Databases.<br>Developing an AI Floor Plan Generator for 2D architectural blueprints.<br>Professionalizing in Agentic Workflows & Automation.
+I am an aspiring AI Engineer specializing in Agentic AI, Automation, and Generative AI. <br>I am currently building intelligent systems that solve real-world problems using RAG and n8n."<br><br>Projects/Learning:<br>>Building a Pakistani Law RAG System using n8n & Vector Databases.<br>>Developing an AI Floor Plan Generator for 2D architectural blueprints.<br>>Professionalizing in Agentic Workflows & Automation.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@ I am an aspiring AI Engineer specializing in Agentic AI, Automation, and Generat
 ![](https://github-readme-stats.vercel.app/api?username=muzamillnisar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=muzamillnisar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzamillnisar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muzamillnisar&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muzamillnisar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muzamillnisar&icon=0&color=0)](https://visitcount.itsvg.in)
